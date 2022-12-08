@@ -18,6 +18,7 @@ from datetime import datetime as dt
 from telethon import events
 from ethon.telefunc import fast_download
 from ethon.pyfunc import video_metadata
+import ffmpeg
 
 def hhmmss(seconds):
     x = time.strftime('%H:%M:%S',time.gmtime(seconds))
