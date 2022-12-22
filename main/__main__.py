@@ -18,5 +18,5 @@ for name in files:
 print("Successfully deployed!")
 print("@MaheshChauhan • @DroneBots")
 
-if __name__ == "__main__":
-    Drone.run_until_disconnected()
+
+
