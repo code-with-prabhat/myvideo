@@ -17,6 +17,6 @@ for name in files:
 
 print("Successfully deployed!")
 print("@MaheshChauhan • @DroneBots")
-
+client.run_until_disconnected()
 
 
